@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.DS_store
+.idea
 
 # Log file
 *.log
